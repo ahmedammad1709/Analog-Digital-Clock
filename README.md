@@ -1,7 +1,7 @@
 # Analog-Digital-Clock
 A fully functional Analog & Digital Clock built with HTML, CSS, and JavaScript, allowing users to switch between both modes seamlessly. 🎯
 
-🚀 Features
+🚀 Features <br>
 ✅ Real-time Analog Clock with smooth moving hands
 ✅ Digital Clock displaying hours, minutes, and seconds
 ✅ Mode Switch Buttons to toggle between Analog & Digital views
