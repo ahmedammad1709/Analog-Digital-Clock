@@ -9,6 +9,26 @@ body{
     margin: 0;
     background-color: rgb(255, 255, 255);
 }
+
+
+.progressbar{
+    height: 2px;
+    background-color: red;
+    animation: load 0.5s ease-in-out  1 normal ;
+}
+
+@keyframes load {
+    0%{
+        width: 0;
+    }
+    50%{
+        width: 80vw;
+    }
+    100%{
+        width: 100vw;
+    }
+}
+
 header{
     display: flex;
     background-color: black;
